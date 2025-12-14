@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lucas Sutelo
+# Hi, I'm Lucas Sutelo
 
 Senior Software Engineer with 15+ years of experience designing and building scalable systems, cloud architectures, and AI powered products.
 
@@ -8,7 +8,7 @@ Post graduated in Artificial Intelligence, Software Engineering, and Digital Pro
 
 ---
 
-## 🚀 What I do
+## What I do
 
 * Design and build scalable backend systems
 * Architect cloud native solutions on AWS and Azure
@@ -18,7 +18,7 @@ Post graduated in Artificial Intelligence, Software Engineering, and Digital Pro
 
 ---
 
-## 🧠 Areas of expertise
+## Areas of expertise
 
 * Software Architecture and System Design
 * Backend Development and APIs
@@ -29,7 +29,7 @@ Post graduated in Artificial Intelligence, Software Engineering, and Digital Pro
 
 ---
 
-## 🏗️ Builder mindset
+## Builder mindset
 
 Co founder and lead engineer of a production SaaS platform used by companies in the maintenance industry.
 
@@ -37,7 +37,7 @@ Focused on long term scalability, system reliability, clean architecture, and su
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** TypeScript, JavaScript, Python, PHP
 **Cloud:** AWS, Azure, GCP
@@ -45,7 +45,7 @@ Focused on long term scalability, system reliability, clean architecture, and su
 
 ---
 
-## 📫 Let’s connect
+## Let’s connect
 
 * LinkedIn: linkedin.com/in/lucas-sutelo
 * Open to conversations and new contact business
